@@ -1,5 +1,10 @@
 {
   "dependencies": {
-    "vue-router": "^4.1.6"
+    "vue-router": "^4.1.6",
+    "vuex": "^3.6.2"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-vuex": "~5.0.0",
+    "axios": "^1.2.2"
   }
 }
